@@ -1,0 +1,57 @@
+# Relevant Fields
+23: Breed Type
+46: Horse Year of Birth (dreive to Age)
+266-274: # Days since previous race (Past 10) -- not provided for 10th race back
+316-325: Distance (Past 10)
+346-355: # of Entrants (Past 10)
+356-365: Post-position (Past 10)
+506-515: Weight (Past 10)
+
+
+# Labels/Potential Labels
+1036-1045: Final Time (Seconds and Hundredths)
+
+
+# Good Information, but won't have data for on race-day
+566-575: Start Call Position (Past 10) -- X if 'did not finish'
+566-575: 1st Call Position (Past 10) -- X if 'did not finish'
+566-575: 2nd Call Position (Past 10) -- X if 'did not finish'
+566-575: Gate Call Position (Past 10) -- X if 'did not finish'
+566-575: Stretch Position (Past 10) -- X if 'did not finish'
+566-575: Finish Position (Past 10) -- X if 'did not finish'
+
+
+# Potentially Relevant Fields 
+49: Sex -- if we can figure out how to encode
+52: Sire -- if we can encode
+54: Dam -- if we can encode
+56: Breeder -- if encodable (probably not)
+
+# Definitely Relevant Fields that we should figure out an encoding for
+306-315: Track condition (Past 10) -- need to encode
+326-335: Surface (Past 10) -- need to encode
+
+
+# Future Fields to Derive
+29-32: Trainer Stats 
+33,35-38: Jockey Stats
+65-69 (ayyyy): Horse Stats at today's distance
+70-74: Horse record at today's track
+75-79: Horse Turf Record
+80-84: Horse Wet Record
+85-90: Horse Latest Year Record -- could feed lastest year win %
+91-96: Horse Previous Year Record -- could feed last year win % 
+97-101: Horse Lifetime Record
+1178: Best TSN Speed - Fast Track
+1179: Best TSN Speed - Turf
+1180: Best TSN Speed - Off Track
+1181: Best TSN Speed - Distance
+
+
+Notes:
+We can probably encode the 'Surface' by finding the Best TSN Speed for that surface
+and then filling in those values for the past races depending on what type of surface
+they were on. The same should be done for distance.
+
+We can also potentially encode the 'Track Condition' by deriving the number of lifetime starts, wins, places, etcs
+for a horse during any particular condition. Not sure if this data exists though.
