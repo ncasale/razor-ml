@@ -1,8 +1,0 @@
-"DG ","20160521",1,1210,"D","A",0,1800,"BUN","0",71.00,"FT","Alw 1800b",3,"","Silencio Gato",7,124,0,1,0,2.0,1,"b",1,,"ORTEGA JESUS F","JAMES JARELL"
-"DG ","20160521",1,1210,"D","A",0,1800,"BUN","0",71.00,"FT","Alw 1800b",2,"","At Last a Wildcat",9,124,0,2,1.50,0.5,0,"b",2,,"CASTILLO JOE R","GAMEZ F M"
-"DG ","20160521",1,1210,"D","A",0,1800,"BUN","0",71.00,"FT","Alw 1800b",1,"","Fiscal Cliff",10,124,0,3,2.75,4.0,1,"b",3,,"MAGRADY RONALD","AGUILAR DANIEL"
-"DG ","20160521",2,1210,"D","S",0,1800,"BUN","0",73.20,"FT","Md Sp Wt",2,"","Unbridled Dis Time",11,124,0,1,0,2.7,0,"b",1,,"ORTEGA MONICA","AGUILAR DANIEL"
-"DG ","20160521",2,1210,"D","S",0,1800,"BUN","0",73.20,"FT","Md Sp Wt",5,"","Aaarg",13,122,0,2,12.25,5.0,0,"b",2,,"YBARRA RUDY","YBARRA MICHAEL"
-"DG ","20160521",2,1210,"D","S",0,1800,"BUN","0",73.20,"FT","Md Sp Wt",4,"","Huracan Del Diablo",13,122,0,3,13.75,2.2,0,"b",3,,"YBARRA RUDY","SEIFERS MATT"
-"DG ","20160521",2,1210,"D","S",0,1800,"BUN","0",73.20,"FT","Md Sp Wt",1,"","Memo Firm Nocturno",13,122,0,4,20.25,2.1,0,"b",4,,"BAZURTO RAMON","GAMEZ F M"
-"DG ","20160521",2,1210,"D","S",0,1800,"BUN","0",73.20,"FT","Md Sp Wt",3,"","Alcoverde'sgold",12,124,0,5,68.75,2.3,0,"b",5,,"ALCOVERDE ERNESTO","OSUNA JESUS"
